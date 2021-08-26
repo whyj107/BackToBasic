@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpSrvAsync", "TcpSrvAsync\TcpSrvAsync.csproj", "{64C05548-5E98-4D61-91F5-0F88373772B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C05548-5E98-4D61-91F5-0F88373772B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C05548-5E98-4D61-91F5-0F88373772B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C05548-5E98-4D61-91F5-0F88373772B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C05548-5E98-4D61-91F5-0F88373772B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F47E25-105E-4342-896D-6BF0E8EC2D41}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\bin\Debug\netcoreapp3.1\TcpSrvAsync.exe
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\bin\Debug\netcoreapp3.1\TcpSrvAsync.deps.json
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\bin\Debug\netcoreapp3.1\TcpSrvAsync.runtimeconfig.json
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\bin\Debug\netcoreapp3.1\TcpSrvAsync.runtimeconfig.dev.json
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\bin\Debug\netcoreapp3.1\TcpSrvAsync.dll
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\bin\Debug\netcoreapp3.1\TcpSrvAsync.pdb
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.csprojAssemblyReference.cache
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.AssemblyInfoInputs.cache
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.AssemblyInfo.cs
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.csproj.CoreCompileInputs.cache
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.dll
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.pdb
+C:\Users\qndbs\source\repos\TcpSrvAsync\TcpSrvAsync\obj\Debug\netcoreapp3.1\TcpSrvAsync.genruntimeconfig.cache

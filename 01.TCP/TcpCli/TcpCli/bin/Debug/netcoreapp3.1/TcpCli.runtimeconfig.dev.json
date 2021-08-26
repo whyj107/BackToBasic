@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\qndbs\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\qndbs\\.nuget\\packages"
+    ]
+  }
+}

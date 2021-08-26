@@ -1,0 +1,12 @@
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\bin\Debug\netcoreapp3.1\TcpCli.exe
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\bin\Debug\netcoreapp3.1\TcpCli.deps.json
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\bin\Debug\netcoreapp3.1\TcpCli.runtimeconfig.json
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\bin\Debug\netcoreapp3.1\TcpCli.runtimeconfig.dev.json
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\bin\Debug\netcoreapp3.1\TcpCli.dll
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\bin\Debug\netcoreapp3.1\TcpCli.pdb
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\obj\Debug\netcoreapp3.1\TcpCli.AssemblyInfoInputs.cache
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\obj\Debug\netcoreapp3.1\TcpCli.AssemblyInfo.cs
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\obj\Debug\netcoreapp3.1\TcpCli.csproj.CoreCompileInputs.cache
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\obj\Debug\netcoreapp3.1\TcpCli.dll
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\obj\Debug\netcoreapp3.1\TcpCli.pdb
+C:\Users\qndbs\source\repos\TcpCli\TcpCli\obj\Debug\netcoreapp3.1\TcpCli.genruntimeconfig.cache
