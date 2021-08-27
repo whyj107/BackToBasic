@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AIRLab-PC4\\source\\repos\\TcpCli\\TcpCli\\TcpCli.csproj",
-      "projectName": "TcpCli",
-      "projectPath": "C:\\Users\\AIRLab-PC4\\source\\repos\\TcpCli\\TcpCli\\TcpCli.csproj",
+      "projectUniqueName": "C:\\Users\\AIRLab-PC4\\source\\repos\\SocketServer\\SocketServer\\SocketServer.csproj",
+      "projectName": "SocketServer",
+      "projectPath": "C:\\Users\\AIRLab-PC4\\source\\repos\\SocketServer\\SocketServer\\SocketServer.csproj",
       "packagesPath": "C:\\Users\\AIRLab-PC4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AIRLab-PC4\\source\\repos\\TcpCli\\TcpCli\\obj\\",
+      "outputPath": "C:\\Users\\AIRLab-PC4\\source\\repos\\SocketServer\\SocketServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

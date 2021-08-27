@@ -1,0 +1,13 @@
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\AIRLab-PC4\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.genruntimeconfig.cache
