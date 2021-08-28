@@ -59,8 +59,8 @@ namespace SocketServer
                     Console.WriteLine(e.ToString());
                 }
 
-                Console.WriteLine("\nPress ENTER to continue...");
-                Console.Read();
+                // Console.WriteLine("\nPress ENTER to continue...");
+                // Console.Read();
 
             }
 
@@ -105,7 +105,7 @@ namespace SocketServer
                     {
                         // 모든 데이터를 클라이언트에서 읽은 후 콘솔에 표시  
                         Console.WriteLine("Read {0} bytes from socket. \n Data : {1}", content.Length, content);
-                        // 데이터를 클라이언트로 반향
+                        // 데이터를 클라이언트로 전송
                         Send(handler, $"ok: {content}");
                     }
                     else
