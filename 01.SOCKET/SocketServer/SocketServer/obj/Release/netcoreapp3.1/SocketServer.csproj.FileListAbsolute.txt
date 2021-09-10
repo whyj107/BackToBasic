@@ -1,0 +1,13 @@
+D:\c#\SocketServer\SocketServer\bin\Release\netcoreapp3.1\SocketServer.exe
+D:\c#\SocketServer\SocketServer\bin\Release\netcoreapp3.1\SocketServer.deps.json
+D:\c#\SocketServer\SocketServer\bin\Release\netcoreapp3.1\SocketServer.runtimeconfig.json
+D:\c#\SocketServer\SocketServer\bin\Release\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+D:\c#\SocketServer\SocketServer\bin\Release\netcoreapp3.1\SocketServer.dll
+D:\c#\SocketServer\SocketServer\bin\Release\netcoreapp3.1\SocketServer.pdb
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.dll
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.pdb
+D:\c#\SocketServer\SocketServer\obj\Release\netcoreapp3.1\SocketServer.genruntimeconfig.cache
