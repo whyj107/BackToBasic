@@ -89,9 +89,9 @@ namespace TcpCli
                     }
 
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    Console.WriteLine(e.ToString());
+                    Console.WriteLine(ex.Message);
                 }
             }
 
@@ -110,9 +110,9 @@ namespace TcpCli
                     // 연결되었음을 알리는 신호 
                     connectDone.Set();
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    Console.WriteLine(e.ToString());
+                    Console.WriteLine(ex.Message);
                 }
             }
 
@@ -127,9 +127,9 @@ namespace TcpCli
                     // 원격 장치에서 데이터 수신 시작
                     client.BeginReceive(state.buffer, 0, StateObject.BufferSize, 0, new AsyncCallback(ReceiveCallback), state);
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    Console.WriteLine(e.ToString());
+                    Console.WriteLine(ex.Message);
                 }
             }
 
@@ -173,9 +173,9 @@ namespace TcpCli
                         return;
                     }
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    Console.WriteLine(e.ToString());
+                    Console.WriteLine(ex.Message);
                 }
             }
 
@@ -204,9 +204,9 @@ namespace TcpCli
                     // 모든 바이트가 전송되었음을 나타냄
                     sendDone.Set();
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    Console.WriteLine(e.ToString());
+                    Console.WriteLine(ex.Message);
                 }
             }
 
