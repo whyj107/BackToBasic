@@ -36,7 +36,6 @@ namespace TcpCli
 
             public static void StartClient()
             {
-
                 // 원격 장치 연결 
                 try
                 {
@@ -74,9 +73,7 @@ namespace TcpCli
                             Console.WriteLine("Response received : {0}", response);
                             Console.WriteLine("============================================");
                             response = String.Empty;
-
                         }
-
                     }
 
                     while (client.Connected)
